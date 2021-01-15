@@ -12,7 +12,8 @@ Je connais plusieurs langue de progamation comme:
 |   Ce que j'ai fait  | Un autoclicker, et autres | Des bots discord(djs) | Mon site web (bientôt dispo !) |   ❌   |     ❌    |     ❌    |
 | En train d'appendre |             ❌             |           ❌           |                ✅               |   ✅   |     ❌    |     ❌    |
 
-_ _
+<br/>
+
 _Enjoy !_
 <!--
 **Vlf0klm/vlf0klm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

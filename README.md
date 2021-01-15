@@ -1,5 +1,5 @@
 ### Hey ! 🇫🇷 🇧🇪
-Moi c'est vlf_0klm, anciennment "Vive les frites".
+Moi c'est vlf_0klm, anciennement "Vive les frites".
 - ⚡ Je suis un dev qui fais un peu de tout et ça me plait :D
 - 💻 Je travaille pendant mon temps libre.
 - ⭐ Je suis autodidacte.<!--   ou je pense l'être    --> 
